@@ -1,0 +1,117 @@
+group_name,subgroup,indicator,avg_pct,period_start,period_end
+Age,50 - 59 years,Received Counseling,9.054545454545455,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic White, single race",Received Counseling,10.542424242424243,2020-08-19,2022-05-09
+National Estimate,United States,Medication and/or Counseling,24.83636363636364,2020-08-19,2022-05-09
+Sex,Male,Medication and/or Counseling,18.493939393939396,2020-08-19,2022-05-09
+National Estimate,United States,Unmet Counseling Need,10.921212121212125,2020-08-19,2022-05-09
+Sex,Male,Unmet Counseling Need,8.303030303030301,2020-08-19,2022-05-09
+Disability status,Without disability,Medication and/or Counseling,22.17222222222222,2021-04-14,2022-05-09
+Disability status,Without disability,Unmet Counseling Need,8.727777777777776,2021-04-14,2022-05-09
+Gender identity,Cis-gender male,Took Medication,15.875,2021-07-21,2022-05-09
+Gender identity,Cis-gender female,Medication and/or Counseling,32.05833333333333,2021-07-21,2022-05-09
+Sexual orientation,Bisexual,Medication and/or Counseling,46.366666666666674,2021-07-21,2022-05-09
+Gender identity,Cis-gender female,Unmet Counseling Need,13.408333333333331,2021-07-21,2022-05-09
+Sexual orientation,Bisexual,Unmet Counseling Need,30.974999999999998,2021-07-21,2022-05-09
+Sex,Female,Unmet Counseling Need,13.345454545454542,2020-08-19,2022-05-09
+Age,80 years and above,Took Medication,15.039393939393937,2020-08-19,2022-05-09
+Age,18 - 29 years,Took Medication,21.081818181818182,2020-08-19,2022-05-09
+Age,30 - 39 years,Took Medication,21.58181818181818,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic Black, single race",Took Medication,15.457575757575759,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",Took Medication,24.1,2020-08-19,2022-05-09
+Education,Bachelor's degree or higher,Took Medication,20.806060606060605,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",Received Counseling,6.3121212121212125,2020-08-19,2022-05-09
+Education,Less than a high school diploma,Received Counseling,8.439393939393941,2020-08-19,2022-05-09
+Education,High school diploma or GED,Received Counseling,6.921212121212122,2020-08-19,2022-05-09
+Education,Some college/Associate's degree,Received Counseling,10.903030303030304,2020-08-19,2022-05-09
+Sex,Female,Medication and/or Counseling,30.690909090909095,2020-08-19,2022-05-09
+Presence of Symptoms of Anxiety/Depression,Did not experience symptoms of anxiety/depression in the past 4 weeks,Medication and/or Counseling,16.34242424242424,2020-08-19,2022-05-09
+Presence of Symptoms of Anxiety/Depression,Did not experience symptoms of anxiety/depression in the past 4 weeks,Unmet Counseling Need,3.418181818181818,2020-08-19,2022-05-09
+Disability status,With disability,Medication and/or Counseling,46.44444444444444,2021-04-14,2022-05-09
+Disability status,With disability,Unmet Counseling Need,24.083333333333332,2021-04-14,2022-05-09
+Sexual orientation,Straight,Took Medication,21.041666666666664,2021-07-21,2022-05-09
+Sexual orientation,Gay or lesbian,Received Counseling,19.733333333333334,2021-07-21,2022-05-09
+Sex,Male,Took Medication,15.654545454545458,2020-08-19,2022-05-09
+National Estimate,United States,Took Medication,21.360606060606063,2020-08-19,2022-05-09
+Sexual orientation,Bisexual,Took Medication,38.34166666666667,2021-07-21,2022-05-09
+Disability status,Without disability,Took Medication,18.666666666666668,2021-04-14,2022-05-09
+Gender identity,Cis-gender female,Took Medication,27.86666666666667,2021-07-21,2022-05-09
+Gender identity,Cis-gender male,Medication and/or Counseling,18.71666666666667,2021-07-21,2022-05-09
+Gender identity,Cis-gender male,Unmet Counseling Need,8.166666666666666,2021-07-21,2022-05-09
+Age,50 - 59 years,Took Medication,22.781818181818185,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic White, single race",Took Medication,24.375757575757582,2020-08-19,2022-05-09
+Gender identity,Cis-gender male,Received Counseling,7.791666666666667,2021-07-21,2022-05-09
+Sex,Female,Took Medication,26.627272727272725,2020-08-19,2022-05-09
+Age,40 - 49 years,Received Counseling,11.427272727272724,2020-08-19,2022-05-09
+Age,60 - 69 years,Received Counseling,6.1121212121212105,2020-08-19,2022-05-09
+Presence of Symptoms of Anxiety/Depression,Did not experience symptoms of anxiety/depression in the past 4 weeks,Took Medication,13.727272727272725,2020-08-19,2022-05-09
+Age,70 - 79 years,Received Counseling,4.169696969696971,2020-08-19,2022-05-09
+Presence of Symptoms of Anxiety/Depression,Experienced symptoms of anxiety/depression in past 4 weeks,Received Counseling,18.312121212121212,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,Hispanic or Latino,Received Counseling,9.196969696969699,2020-08-19,2022-05-09
+Age,18 - 29 years,Medication and/or Counseling,26.924242424242426,2020-08-19,2022-05-09
+Age,30 - 39 years,Medication and/or Counseling,27.181818181818183,2020-08-19,2022-05-09
+Age,80 years and above,Medication and/or Counseling,16.466666666666665,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic Black, single race",Medication and/or Counseling,19.34545454545454,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",Medication and/or Counseling,28.609090909090906,2020-08-19,2022-05-09
+Education,Bachelor's degree or higher,Medication and/or Counseling,26.069696969696967,2020-08-19,2022-05-09
+Age,18 - 29 years,Unmet Counseling Need,19.848484848484848,2020-08-19,2022-05-09
+Age,30 - 39 years,Unmet Counseling Need,15.566666666666668,2020-08-19,2022-05-09
+Age,80 years and above,Unmet Counseling Need,3.4038461538461533,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic Black, single race",Unmet Counseling Need,11.575757575757574,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",Unmet Counseling Need,16.44242424242424,2020-08-19,2022-05-09
+Education,Bachelor's degree or higher,Unmet Counseling Need,10.60909090909091,2020-08-19,2022-05-09
+Disability status,With disability,Took Medication,42.72777777777778,2021-04-14,2022-05-09
+Gender identity,Transgender,Received Counseling,37.041666666666664,2021-07-21,2022-05-09
+Sexual orientation,Straight,Medication and/or Counseling,24.25833333333333,2021-07-21,2022-05-09
+Sexual orientation,Straight,Unmet Counseling Need,9.475,2021-07-21,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",Took Medication,9.536363636363639,2020-08-19,2022-05-09
+Education,Less than a high school diploma,Took Medication,19.10909090909091,2020-08-19,2022-05-09
+Education,High school diploma or GED,Took Medication,20.03333333333333,2020-08-19,2022-05-09
+Education,Some college/Associate's degree,Took Medication,23.787878787878785,2020-08-19,2022-05-09
+Age,18 - 29 years,Received Counseling,15.242424242424244,2020-08-19,2022-05-09
+Age,30 - 39 years,Received Counseling,14.463636363636363,2020-08-19,2022-05-09
+Age,80 years and above,Received Counseling,3.648148148148147,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic Black, single race",Received Counseling,9.557575757575759,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",Received Counseling,13.690909090909093,2020-08-19,2022-05-09
+Education,Bachelor's degree or higher,Received Counseling,12.596969696969698,2020-08-19,2022-05-09
+Age,40 - 49 years,Medication and/or Counseling,25.966666666666665,2020-08-19,2022-05-09
+Age,60 - 69 years,Medication and/or Counseling,23.18181818181818,2020-08-19,2022-05-09
+Age,70 - 79 years,Medication and/or Counseling,20.403030303030306,2020-08-19,2022-05-09
+Presence of Symptoms of Anxiety/Depression,Experienced symptoms of anxiety/depression in past 4 weeks,Medication and/or Counseling,40.97878787878787,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,Hispanic or Latino,Medication and/or Counseling,19.581818181818182,2020-08-19,2022-05-09
+Age,40 - 49 years,Unmet Counseling Need,11.845454545454544,2020-08-19,2022-05-09
+Age,60 - 69 years,Unmet Counseling Need,5.775757575757575,2020-08-19,2022-05-09
+Age,70 - 79 years,Unmet Counseling Need,3.263636363636363,2020-08-19,2022-05-09
+Presence of Symptoms of Anxiety/Depression,Experienced symptoms of anxiety/depression in past 4 weeks,Unmet Counseling Need,25.287878787878793,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,Hispanic or Latino,Unmet Counseling Need,11.987878787878786,2020-08-19,2022-05-09
+Sexual orientation,Gay or lesbian,Took Medication,33.12499999999999,2021-07-21,2022-05-09
+Sexual orientation,Straight,Received Counseling,9.158333333333333,2021-07-21,2022-05-09
+Gender identity,Transgender,Medication and/or Counseling,54.458333333333336,2021-07-21,2022-05-09
+Gender identity,Transgender,Unmet Counseling Need,39.391666666666666,2021-07-21,2022-05-09
+Sex,Female,Received Counseling,12.236363636363638,2020-08-19,2022-05-09
+Age,60 - 69 years,Took Medication,21.551515151515158,2020-08-19,2022-05-09
+Age,70 - 79 years,Took Medication,19.257575757575754,2020-08-19,2022-05-09
+Age,40 - 49 years,Took Medication,22.13333333333333,2020-08-19,2022-05-09
+Presence of Symptoms of Anxiety/Depression,Experienced symptoms of anxiety/depression in past 4 weeks,Took Medication,35.91515151515151,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,Hispanic or Latino,Took Medication,16.14848484848485,2020-08-19,2022-05-09
+Presence of Symptoms of Anxiety/Depression,Did not experience symptoms of anxiety/depression in the past 4 weeks,Received Counseling,5.854545454545457,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",Medication and/or Counseling,12.669696969696968,2020-08-19,2022-05-09
+Education,Less than a high school diploma,Medication and/or Counseling,21.206060606060603,2020-08-19,2022-05-09
+Education,High school diploma or GED,Medication and/or Counseling,21.92727272727273,2020-08-19,2022-05-09
+Education,Some college/Associate's degree,Medication and/or Counseling,27.154545454545453,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",Unmet Counseling Need,6.690909090909089,2020-08-19,2022-05-09
+Education,Less than a high school diploma,Unmet Counseling Need,10.545454545454545,2020-08-19,2022-05-09
+Education,High school diploma or GED,Unmet Counseling Need,8.748484848484852,2020-08-19,2022-05-09
+Education,Some college/Associate's degree,Unmet Counseling Need,13.472727272727274,2020-08-19,2022-05-09
+Disability status,With disability,Received Counseling,19.561111111111114,2021-04-14,2022-05-09
+Gender identity,Transgender,Took Medication,44.199999999999996,2021-07-21,2022-05-09
+Sexual orientation,Gay or lesbian,Medication and/or Counseling,39.125,2021-07-21,2022-05-09
+Sexual orientation,Gay or lesbian,Unmet Counseling Need,20.450000000000003,2021-07-21,2022-05-09
+Sex,Male,Received Counseling,7.833333333333335,2020-08-19,2022-05-09
+National Estimate,United States,Received Counseling,10.118181818181817,2020-08-19,2022-05-09
+Age,50 - 59 years,Medication and/or Counseling,25.463636363636365,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic White, single race",Medication and/or Counseling,27.75151515151516,2020-08-19,2022-05-09
+Age,50 - 59 years,Unmet Counseling Need,9.148484848484852,2020-08-19,2022-05-09
+Race/Hispanic ethnicity,"Non-Hispanic White, single race",Unmet Counseling Need,10.584848484848486,2020-08-19,2022-05-09
+Disability status,Without disability,Received Counseling,8.944444444444445,2021-04-14,2022-05-09
+Gender identity,Cis-gender female,Received Counseling,12.574999999999998,2021-07-21,2022-05-09
+Sexual orientation,Bisexual,Received Counseling,27.016666666666662,2021-07-21,2022-05-09

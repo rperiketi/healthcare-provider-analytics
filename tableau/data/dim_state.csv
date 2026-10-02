@@ -1,0 +1,52 @@
+state,state_name,census_region
+NY,New York,Northeast
+WI,Wisconsin,Midwest
+DE,Delaware,South
+MD,Maryland,South
+OK,Oklahoma,South
+TN,Tennessee,South
+TX,Texas,South
+WV,West Virginia,South
+AZ,Arizona,West
+CT,Connecticut,Northeast
+IA,Iowa,Midwest
+LA,Louisiana,South
+ME,Maine,Northeast
+MT,Montana,West
+NV,Nevada,West
+NJ,New Jersey,Northeast
+NM,New Mexico,West
+OH,Ohio,Midwest
+RI,Rhode Island,Northeast
+VA,Virginia,South
+WA,Washington,West
+DC,District of Columbia,South
+GA,Georgia,South
+MN,Minnesota,Midwest
+MS,Mississippi,South
+NH,New Hampshire,Northeast
+WY,Wyoming,West
+CA,California,West
+IL,Illinois,Midwest
+KY,Kentucky,South
+SD,South Dakota,Midwest
+AK,Alaska,West
+AR,Arkansas,South
+SC,South Carolina,South
+UT,Utah,West
+VT,Vermont,Northeast
+HI,Hawaii,West
+IN,Indiana,Midwest
+MO,Missouri,Midwest
+NE,Nebraska,Midwest
+NC,North Carolina,South
+ND,North Dakota,Midwest
+PA,Pennsylvania,Northeast
+AL,Alabama,South
+CO,Colorado,West
+FL,Florida,South
+ID,Idaho,West
+KS,Kansas,Midwest
+MA,Massachusetts,Northeast
+MI,Michigan,Midwest
+OR,Oregon,West

@@ -1,0 +1,22 @@
+hcpcs_cd,service_category,hcpcs_desc
+90791,Diagnostic Evaluation,Psychiatric diagnostic evaluation
+90837,Psychotherapy,"Psychotherapy, 1 hour"
+90792,Diagnostic Evaluation,Psychiatric diagnostic evaluation with medical services
+90836,Psychotherapy Add-on (with E/M),"Psychotherapy with evaluation and management visit, 45 minutes"
+90847,Family / Group Therapy,"Family psychotherapy with patient, 50 minutes"
+96136,Psychological Testing,"Administration of psychological or neuropsychological test, first 30 minutes"
+96137,Psychological Testing,"Administration of psychological or neuropsychological test, each additional 30 minutes"
+96130,Psychological Testing,"Evaluation of psychological test, first hour"
+99493,Collaborative / Integrated Care,"Follow-up psychiatric collaborative care management, subsequent calendar month, first 60 minutes"
+90839,Crisis Psychotherapy,"Psychotherapy for crisis, first hour"
+90853,Family / Group Therapy,Group psychotherapy
+99492,Collaborative / Integrated Care,"Initial psychiatric collaborative care management, first calendar month, first 70 minutes"
+90832,Psychotherapy,"Psychotherapy, 30 minutes"
+90838,Psychotherapy Add-on (with E/M),"Psychotherapy with evaluation and management visit, 1 hour"
+90833,Psychotherapy Add-on (with E/M),"Psychotherapy with evaluation and management visit, 30 minutes"
+90834,Psychotherapy,"Psychotherapy, 45 minutes"
+90846,Family / Group Therapy,"Family psychotherapy without patient, 50 minutes"
+99484,Collaborative / Integrated Care,"Care management services for behavioral health conditions, 20 minutes or more clinical staff time directed by health care professional"
+96131,Psychological Testing,"Evaluation of psychological test, each additional hour"
+90840,Crisis Psychotherapy,"Psychotherapy for crisis, each additional 30 minutes"
+99494,Collaborative / Integrated Care,"Psychiatric collaborative care management per calendar month, each additional 30 minutes"

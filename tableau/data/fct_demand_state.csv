@@ -1,0 +1,613 @@
+state,indicator,year,avg_pct,periods_reported,periods_suppressed
+AZ,Took Medication,2020,19.27777777777778,9,0
+HI,Took Medication,2020,12.177777777777779,9,0
+IN,Took Medication,2020,23.811111111111114,9,0
+MS,Took Medication,2020,22.87777777777778,9,0
+MT,Took Medication,2020,21.477777777777778,9,0
+NM,Took Medication,2020,20.544444444444448,9,0
+OR,Took Medication,2020,21.711111111111112,9,0
+AZ,Received Counseling,2020,8.744444444444445,9,0
+IL,Received Counseling,2020,9.744444444444445,9,0
+MI,Received Counseling,2020,9.088888888888887,9,0
+MS,Received Counseling,2020,6.855555555555555,9,0
+NH,Received Counseling,2020,10.333333333333334,9,0
+NC,Received Counseling,2020,9.033333333333331,9,0
+ND,Received Counseling,2020,6.0777777777777775,9,0
+SD,Received Counseling,2020,6.933333333333334,9,0
+UT,Received Counseling,2020,10.2,9,0
+VT,Received Counseling,2020,13.1,9,0
+WI,Received Counseling,2020,8.766666666666666,9,0
+DE,Medication and/or Counseling,2020,24.777777777777775,9,0
+ME,Medication and/or Counseling,2020,27.988888888888887,9,0
+NJ,Medication and/or Counseling,2020,21.62222222222222,9,0
+UT,Medication and/or Counseling,2020,28.366666666666667,9,0
+VT,Medication and/or Counseling,2020,28.288888888888884,9,0
+CO,Unmet Counseling Need,2020,13.18888888888889,9,0
+DE,Unmet Counseling Need,2020,11.433333333333332,9,0
+ID,Unmet Counseling Need,2020,10.622222222222224,9,0
+NE,Unmet Counseling Need,2020,8.888888888888888,9,0
+NY,Unmet Counseling Need,2020,9.011111111111111,9,0
+RI,Unmet Counseling Need,2020,8.844444444444445,9,0
+TX,Unmet Counseling Need,2020,10.811111111111112,9,0
+UT,Unmet Counseling Need,2020,13.844444444444443,9,0
+AL,Took Medication,2021,24.615000000000002,20,0
+MA,Took Medication,2021,23.46,20,0
+MI,Took Medication,2021,22.895000000000003,20,0
+NE,Took Medication,2021,23.624999999999996,20,0
+NY,Took Medication,2021,18.699999999999996,20,0
+RI,Took Medication,2021,25.72,20,0
+UT,Took Medication,2021,25.809999999999995,20,0
+VA,Took Medication,2021,21.560000000000002,20,0
+WI,Took Medication,2021,22.770000000000003,20,0
+AK,Received Counseling,2021,10.770000000000001,20,0
+MD,Received Counseling,2021,12.454999999999998,20,0
+MA,Received Counseling,2021,14.9,20,0
+NE,Received Counseling,2021,9.73,20,0
+NJ,Received Counseling,2021,10.18,20,0
+NY,Received Counseling,2021,12.290000000000003,20,0
+WA,Received Counseling,2021,11.625,20,0
+AZ,Medication and/or Counseling,2021,23.42,20,0
+FL,Medication and/or Counseling,2021,22.34,20,0
+KS,Medication and/or Counseling,2021,26.9,20,0
+NM,Medication and/or Counseling,2021,24.624999999999996,20,0
+OH,Medication and/or Counseling,2021,26.845000000000006,20,0
+SC,Medication and/or Counseling,2021,26.334999999999997,20,0
+TX,Medication and/or Counseling,2021,21.855000000000004,20,0
+VA,Medication and/or Counseling,2021,24.755000000000003,20,0
+WV,Medication and/or Counseling,2021,30.35,20,0
+AL,Unmet Counseling Need,2021,11.7,20,0
+NC,Unmet Counseling Need,2021,10.8,20,0
+GA,Took Medication,2022,20.225,4,0
+MD,Took Medication,2022,21.825,4,0
+AL,Received Counseling,2022,10.375,4,0
+DC,Received Counseling,2022,19.025,4,0
+KY,Received Counseling,2022,10.5,4,0
+MN,Received Counseling,2022,12.275,4,0
+OK,Received Counseling,2022,10.925,4,0
+WV,Received Counseling,2022,10.274999999999999,4,0
+WY,Received Counseling,2022,8.775,4,0
+CA,Medication and/or Counseling,2022,22.674999999999997,4,0
+CT,Medication and/or Counseling,2022,28.450000000000003,4,0
+IA,Medication and/or Counseling,2022,29.375,4,0
+KY,Medication and/or Counseling,2022,32.2,4,0
+MD,Medication and/or Counseling,2022,26.125,4,0
+PA,Medication and/or Counseling,2022,29.525,4,0
+AK,Unmet Counseling Need,2022,13.2,4,0
+KS,Unmet Counseling Need,2022,11.925,4,0
+ME,Unmet Counseling Need,2022,11.425,4,0
+MS,Unmet Counseling Need,2022,11.525,4,0
+OH,Unmet Counseling Need,2022,10.274999999999999,4,0
+CO,Took Medication,2020,20.344444444444445,9,0
+DE,Took Medication,2020,21.355555555555558,9,0
+KY,Took Medication,2020,25.62222222222222,9,0
+ME,Took Medication,2020,24.633333333333336,9,0
+MN,Took Medication,2020,22.422222222222224,9,0
+MO,Took Medication,2020,23.577777777777776,9,0
+NV,Took Medication,2020,17.11111111111111,9,0
+ND,Took Medication,2020,20.48888888888889,9,0
+OK,Took Medication,2020,24.166666666666668,9,0
+SD,Took Medication,2020,20.977777777777774,9,0
+WA,Took Medication,2020,21.51111111111111,9,0
+WV,Took Medication,2020,27.15555555555555,9,0
+CA,Received Counseling,2020,10.199999999999998,9,0
+CO,Received Counseling,2020,11.100000000000001,9,0
+DE,Received Counseling,2020,10.088888888888887,9,0
+GA,Received Counseling,2020,9.322222222222223,9,0
+IA,Received Counseling,2020,8.766666666666667,9,0
+ME,Received Counseling,2020,10.455555555555556,9,0
+OR,Received Counseling,2020,12.177777777777775,9,0
+VA,Received Counseling,2020,10.166666666666666,9,0
+AL,Medication and/or Counseling,2020,26.555555555555557,9,0
+ND,Medication and/or Counseling,2020,21.899999999999995,9,0
+OR,Medication and/or Counseling,2020,26.62222222222222,9,0
+GA,Unmet Counseling Need,2020,11.655555555555559,9,0
+IL,Unmet Counseling Need,2020,10.122222222222224,9,0
+KY,Unmet Counseling Need,2020,10.944444444444445,9,0
+NV,Unmet Counseling Need,2020,11.600000000000001,9,0
+AK,Took Medication,2021,18.46,20,0
+AR,Took Medication,2021,26.950000000000006,20,0
+FL,Took Medication,2021,19.680000000000003,20,0
+KS,Took Medication,2021,24.125,20,0
+NJ,Took Medication,2021,17.895000000000003,20,0
+TN,Took Medication,2021,24.675,20,0
+VT,Took Medication,2021,24.49,20,0
+AR,Received Counseling,2021,8.565,20,0
+CT,Received Counseling,2021,12.73,20,0
+ID,Received Counseling,2021,9.684999999999999,20,0
+SC,Received Counseling,2021,8.485,20,0
+TN,Received Counseling,2021,8.665000000000001,20,0
+AK,Medication and/or Counseling,2021,22.625000000000004,20,0
+CO,Medication and/or Counseling,2021,27.139999999999997,20,0
+ID,Medication and/or Counseling,2021,27.250000000000007,20,0
+MA,Medication and/or Counseling,2021,28.640000000000004,20,0
+MS,Medication and/or Counseling,2021,25.835,20,0
+MO,Medication and/or Counseling,2021,27.850000000000005,20,0
+NE,Medication and/or Counseling,2021,26.385,20,0
+NY,Medication and/or Counseling,2021,23.53,20,0
+WA,Medication and/or Counseling,2021,26.68999999999999,20,0
+WY,Medication and/or Counseling,2021,23.505000000000003,20,0
+AZ,Unmet Counseling Need,2021,11.504999999999999,20,0
+CA,Unmet Counseling Need,2021,11.25,20,0
+DC,Unmet Counseling Need,2021,13.404999999999998,20,0
+IN,Unmet Counseling Need,2021,10.735000000000001,20,0
+LA,Unmet Counseling Need,2021,11.164999999999997,20,0
+MI,Unmet Counseling Need,2021,10.875,20,0
+MN,Unmet Counseling Need,2021,9.924999999999999,20,0
+OR,Unmet Counseling Need,2021,14.494999999999996,20,0
+SC,Unmet Counseling Need,2021,10.479999999999999,20,0
+SD,Unmet Counseling Need,2021,8.345,20,0
+VT,Unmet Counseling Need,2021,10.058823529411764,17,3
+VA,Unmet Counseling Need,2021,10.235,20,0
+WI,Unmet Counseling Need,2021,9.28,20,0
+CA,Took Medication,2022,17.924999999999997,4,0
+CT,Took Medication,2022,23.875,4,0
+DC,Took Medication,2022,21.049999999999997,4,0
+ID,Took Medication,2022,23.7,4,0
+IA,Took Medication,2022,26.725,4,0
+NH,Took Medication,2022,26.025,4,0
+OH,Took Medication,2022,25.525,4,0
+PA,Took Medication,2022,25.825,4,0
+SC,Took Medication,2022,24.775,4,0
+FL,Received Counseling,2022,8.274999999999999,4,0
+OH,Received Counseling,2022,10.225,4,0
+AR,Medication and/or Counseling,2022,30.5,4,0
+GA,Medication and/or Counseling,2022,23.624999999999996,4,0
+HI,Medication and/or Counseling,2022,18.200000000000003,4,0
+IL,Medication and/or Counseling,2022,25.95,4,0
+IN,Medication and/or Counseling,2022,30.225,4,0
+NV,Medication and/or Counseling,2022,20.875,4,0
+TN,Medication and/or Counseling,2022,27.45,4,0
+AR,Unmet Counseling Need,2022,13.75,4,0
+HI,Unmet Counseling Need,2022,8.75,4,0
+IA,Unmet Counseling Need,2022,9.299999999999999,4,0
+MA,Unmet Counseling Need,2022,11.4,4,0
+MT,Unmet Counseling Need,2022,11.6,4,0
+OK,Unmet Counseling Need,2022,13.55,4,0
+WV,Unmet Counseling Need,2022,9.774999999999999,4,0
+WY,Unmet Counseling Need,2022,11.75,4,0
+IL,Took Medication,2020,19.333333333333332,9,0
+LA,Took Medication,2020,24.700000000000003,9,0
+NC,Took Medication,2020,21.28888888888889,9,0
+WY,Took Medication,2020,20.51111111111111,9,0
+KS,Received Counseling,2020,8.766666666666667,9,0
+MO,Received Counseling,2020,8.411111111111113,9,0
+MT,Received Counseling,2020,8.455555555555557,9,0
+RI,Received Counseling,2020,12.488888888888887,9,0
+LA,Medication and/or Counseling,2020,26.988888888888887,9,0
+MT,Medication and/or Counseling,2020,24.688888888888886,9,0
+NC,Medication and/or Counseling,2020,24.366666666666664,9,0
+RI,Medication and/or Counseling,2020,27.62222222222222,9,0
+SD,Medication and/or Counseling,2020,22.87777777777778,9,0
+WI,Medication and/or Counseling,2020,24.244444444444444,9,0
+MD,Unmet Counseling Need,2020,10.322222222222221,9,0
+NH,Unmet Counseling Need,2020,8.044444444444444,9,0
+ND,Unmet Counseling Need,2020,7.155555555555556,9,0
+PA,Unmet Counseling Need,2020,9.277777777777777,9,0
+TN,Unmet Counseling Need,2020,10.933333333333334,9,0
+GA,Took Medication,2021,21.09,20,0
+MD,Took Medication,2021,20.775000000000006,20,0
+AL,Received Counseling,2021,8.945,20,0
+DC,Received Counseling,2021,18.515000000000004,20,0
+KY,Received Counseling,2021,9.485000000000003,20,0
+MN,Received Counseling,2021,10.925,20,0
+OK,Received Counseling,2021,9.345,20,0
+WV,Received Counseling,2021,8.415000000000003,20,0
+WY,Received Counseling,2021,8.63157894736842,19,1
+CA,Medication and/or Counseling,2021,21.115000000000002,20,0
+CT,Medication and/or Counseling,2021,25.76,20,0
+IA,Medication and/or Counseling,2021,28.27,20,0
+KY,Medication and/or Counseling,2021,29.984999999999996,20,0
+MD,Medication and/or Counseling,2021,25.214999999999996,20,0
+PA,Medication and/or Counseling,2021,28.005000000000003,20,0
+AK,Unmet Counseling Need,2021,11.334999999999999,20,0
+KS,Unmet Counseling Need,2021,11.135000000000003,20,0
+ME,Unmet Counseling Need,2021,10.02,20,0
+MS,Unmet Counseling Need,2021,10.515000000000002,20,0
+OH,Unmet Counseling Need,2021,10.530000000000001,20,0
+AL,Took Medication,2022,27.299999999999997,4,0
+MA,Took Medication,2022,25.025,4,0
+MI,Took Medication,2022,24.674999999999997,4,0
+NE,Took Medication,2022,27.275,4,0
+NY,Took Medication,2022,19.700000000000003,4,0
+RI,Took Medication,2022,25.275000000000002,4,0
+UT,Took Medication,2022,28.200000000000003,4,0
+VA,Took Medication,2022,23.925,4,0
+WI,Took Medication,2022,25.425,4,0
+AK,Received Counseling,2022,10.849999999999998,4,0
+MD,Received Counseling,2022,12.600000000000001,4,0
+MA,Received Counseling,2022,16.575,4,0
+NE,Received Counseling,2022,12.125,4,0
+NJ,Received Counseling,2022,11.975,4,0
+NY,Received Counseling,2022,14.049999999999999,4,0
+WA,Received Counseling,2022,12.725000000000001,4,0
+AZ,Medication and/or Counseling,2022,22.974999999999998,4,0
+FL,Medication and/or Counseling,2022,23.85,4,0
+KS,Medication and/or Counseling,2022,29.974999999999998,4,0
+NM,Medication and/or Counseling,2022,25.5,4,0
+OH,Medication and/or Counseling,2022,28.7,4,0
+SC,Medication and/or Counseling,2022,27.075,4,0
+TX,Medication and/or Counseling,2022,23.924999999999997,4,0
+VA,Medication and/or Counseling,2022,27.099999999999998,4,0
+WV,Medication and/or Counseling,2022,36.3,4,0
+AL,Unmet Counseling Need,2022,11.450000000000001,4,0
+NC,Unmet Counseling Need,2022,10.075,4,0
+GA,Took Medication,2020,20.711111111111112,9,0
+MD,Took Medication,2020,18.977777777777778,9,0
+AL,Received Counseling,2020,7.844444444444444,9,0
+DC,Received Counseling,2020,16.7,9,0
+KY,Received Counseling,2020,8.31111111111111,9,0
+MN,Received Counseling,2020,10.122222222222222,9,0
+OK,Received Counseling,2020,7.833333333333333,9,0
+WV,Received Counseling,2020,8.377777777777776,9,0
+WY,Received Counseling,2020,8.11111111111111,9,0
+CA,Medication and/or Counseling,2020,21.022222222222226,9,0
+CT,Medication and/or Counseling,2020,25.166666666666664,9,0
+IA,Medication and/or Counseling,2020,26.355555555555558,9,0
+KY,Medication and/or Counseling,2020,28.033333333333335,9,0
+MD,Medication and/or Counseling,2020,23.1,9,0
+PA,Medication and/or Counseling,2020,25.322222222222223,9,0
+AK,Unmet Counseling Need,2020,11.0,9,0
+KS,Unmet Counseling Need,2020,10.955555555555556,9,0
+ME,Unmet Counseling Need,2020,10.588888888888889,9,0
+MS,Unmet Counseling Need,2020,10.822222222222223,9,0
+OH,Unmet Counseling Need,2020,10.633333333333333,9,0
+IL,Took Medication,2021,21.219999999999995,20,0
+LA,Took Medication,2021,25.855000000000008,20,0
+NC,Took Medication,2021,24.22,20,0
+WY,Took Medication,2021,20.85,20,0
+KS,Received Counseling,2021,9.24,20,0
+MO,Received Counseling,2021,9.455,20,0
+MT,Received Counseling,2021,10.174999999999999,20,0
+RI,Received Counseling,2021,15.084999999999999,20,0
+LA,Medication and/or Counseling,2021,28.354999999999997,20,0
+MT,Medication and/or Counseling,2021,26.01,20,0
+NC,Medication and/or Counseling,2021,27.49,20,0
+RI,Medication and/or Counseling,2021,30.21999999999999,20,0
+SD,Medication and/or Counseling,2021,24.035,20,0
+WI,Medication and/or Counseling,2021,25.76,20,0
+MD,Unmet Counseling Need,2021,10.41,20,0
+NH,Unmet Counseling Need,2021,10.010000000000002,20,0
+ND,Unmet Counseling Need,2021,8.889473684210527,19,1
+PA,Unmet Counseling Need,2021,9.56,20,0
+TN,Unmet Counseling Need,2021,11.000000000000002,20,0
+AZ,Took Medication,2022,20.175000000000004,4,0
+HI,Took Medication,2022,13.175,4,0
+IN,Took Medication,2022,27.525000000000002,4,0
+MS,Took Medication,2022,23.3,4,0
+MT,Took Medication,2022,21.325,4,0
+NM,Took Medication,2022,20.875,4,0
+OR,Took Medication,2022,25.125,4,0
+AZ,Received Counseling,2022,10.1,4,0
+IL,Received Counseling,2022,11.225000000000001,4,0
+MI,Received Counseling,2022,10.8,4,0
+MS,Received Counseling,2022,7.574999999999999,4,0
+NH,Received Counseling,2022,10.925,4,0
+NC,Received Counseling,2022,10.425,4,0
+ND,Received Counseling,2022,10.0,4,0
+SD,Received Counseling,2022,8.425,4,0
+UT,Received Counseling,2022,12.25,4,0
+VT,Received Counseling,2022,13.9,4,0
+WI,Received Counseling,2022,9.975,4,0
+DE,Medication and/or Counseling,2022,25.75,4,0
+ME,Medication and/or Counseling,2022,32.425,4,0
+NJ,Medication and/or Counseling,2022,23.9,4,0
+UT,Medication and/or Counseling,2022,31.974999999999998,4,0
+VT,Medication and/or Counseling,2022,29.5,4,0
+CO,Unmet Counseling Need,2022,12.05,4,0
+DE,Unmet Counseling Need,2022,8.1,4,0
+ID,Unmet Counseling Need,2022,11.700000000000001,4,0
+NE,Unmet Counseling Need,2022,11.049999999999999,4,0
+NY,Unmet Counseling Need,2022,9.600000000000001,4,0
+RI,Unmet Counseling Need,2022,10.15,4,0
+TX,Unmet Counseling Need,2022,13.175,4,0
+UT,Unmet Counseling Need,2022,15.35,4,0
+AK,Took Medication,2020,17.01111111111111,9,0
+AR,Took Medication,2020,25.455555555555556,9,0
+FL,Took Medication,2020,19.222222222222225,9,0
+KS,Took Medication,2020,23.333333333333332,9,0
+NJ,Took Medication,2020,18.055555555555554,9,0
+TN,Took Medication,2020,22.31111111111111,9,0
+VT,Took Medication,2020,23.144444444444442,9,0
+AR,Received Counseling,2020,7.111111111111111,9,0
+CT,Received Counseling,2020,12.766666666666667,9,0
+ID,Received Counseling,2020,9.177777777777779,9,0
+SC,Received Counseling,2020,7.377777777777776,9,0
+TN,Received Counseling,2020,8.744444444444444,9,0
+AK,Medication and/or Counseling,2020,21.01111111111111,9,0
+CO,Medication and/or Counseling,2020,24.944444444444443,9,0
+ID,Medication and/or Counseling,2020,25.955555555555556,9,0
+MA,Medication and/or Counseling,2020,28.0,9,0
+MS,Medication and/or Counseling,2020,24.05555555555555,9,0
+MO,Medication and/or Counseling,2020,26.200000000000003,9,0
+NE,Medication and/or Counseling,2020,24.477777777777774,9,0
+NY,Medication and/or Counseling,2020,21.700000000000003,9,0
+WA,Medication and/or Counseling,2020,25.566666666666666,9,0
+WY,Medication and/or Counseling,2020,23.788888888888884,9,0
+AZ,Unmet Counseling Need,2020,11.32222222222222,9,0
+CA,Unmet Counseling Need,2020,12.277777777777779,9,0
+DC,Unmet Counseling Need,2020,13.566666666666665,9,0
+IN,Unmet Counseling Need,2020,10.566666666666666,9,0
+LA,Unmet Counseling Need,2020,10.58888888888889,9,0
+MI,Unmet Counseling Need,2020,10.866666666666667,9,0
+MN,Unmet Counseling Need,2020,9.666666666666666,9,0
+OR,Unmet Counseling Need,2020,13.81111111111111,9,0
+SC,Unmet Counseling Need,2020,10.61111111111111,9,0
+SD,Unmet Counseling Need,2020,7.51111111111111,9,0
+VT,Unmet Counseling Need,2020,10.81111111111111,9,0
+VA,Unmet Counseling Need,2020,10.022222222222222,9,0
+WI,Unmet Counseling Need,2020,8.466666666666665,9,0
+CO,Took Medication,2021,21.950000000000006,20,0
+DE,Took Medication,2021,21.380000000000003,20,0
+KY,Took Medication,2021,27.630000000000003,20,0
+ME,Took Medication,2021,25.52,20,0
+MN,Took Medication,2021,24.104999999999997,20,0
+MO,Took Medication,2021,25.390000000000004,20,0
+NV,Took Medication,2021,17.57,20,0
+ND,Took Medication,2021,23.690000000000005,20,0
+OK,Took Medication,2021,25.945000000000004,20,0
+SD,Took Medication,2021,22.105,20,0
+WA,Took Medication,2021,22.290000000000003,20,0
+WV,Took Medication,2021,28.54,20,0
+CA,Received Counseling,2021,10.719999999999999,20,0
+CO,Received Counseling,2021,12.540000000000001,20,0
+DE,Received Counseling,2021,9.99,20,0
+GA,Received Counseling,2021,9.035,20,0
+IA,Received Counseling,2021,9.860000000000001,20,0
+ME,Received Counseling,2021,12.220000000000002,20,0
+OR,Received Counseling,2021,13.040000000000001,20,0
+VA,Received Counseling,2021,10.175,20,0
+AL,Medication and/or Counseling,2021,26.995000000000005,20,0
+ND,Medication and/or Counseling,2021,25.925,20,0
+OR,Medication and/or Counseling,2021,29.139999999999997,20,0
+GA,Unmet Counseling Need,2021,12.325000000000001,20,0
+IL,Unmet Counseling Need,2021,10.32,20,0
+KY,Unmet Counseling Need,2021,11.2,20,0
+NV,Unmet Counseling Need,2021,11.435000000000002,20,0
+TX,Took Medication,2022,20.95,4,0
+HI,Received Counseling,2022,10.1,4,0
+IN,Received Counseling,2022,10.325,4,0
+LA,Received Counseling,2022,10.0,4,0
+NV,Received Counseling,2022,9.225,4,0
+NM,Received Counseling,2022,12.55,4,0
+PA,Received Counseling,2022,11.674999999999999,4,0
+TX,Received Counseling,2022,9.65,4,0
+DC,Medication and/or Counseling,2022,28.049999999999997,4,0
+MI,Medication and/or Counseling,2022,28.3,4,0
+MN,Medication and/or Counseling,2022,30.65,4,0
+NH,Medication and/or Counseling,2022,29.05,4,0
+OK,Medication and/or Counseling,2022,31.125,4,0
+CT,Unmet Counseling Need,2022,9.45,4,0
+FL,Unmet Counseling Need,2022,10.650000000000002,4,0
+MO,Unmet Counseling Need,2022,11.475,4,0
+NJ,Unmet Counseling Need,2022,9.2,4,0
+NM,Unmet Counseling Need,2022,12.350000000000001,4,0
+WA,Unmet Counseling Need,2022,13.850000000000001,4,0
+AL,Took Medication,2020,24.322222222222223,9,0
+MA,Took Medication,2020,22.8,9,0
+MI,Took Medication,2020,22.22222222222222,9,0
+NE,Took Medication,2020,22.055555555555557,9,0
+NY,Took Medication,2020,17.211111111111112,9,0
+RI,Took Medication,2020,24.122222222222224,9,0
+UT,Took Medication,2020,24.544444444444444,9,0
+VA,Took Medication,2020,20.744444444444444,9,0
+WI,Took Medication,2020,21.57777777777778,9,0
+AK,Received Counseling,2020,9.533333333333333,9,0
+MD,Received Counseling,2020,11.444444444444445,9,0
+MA,Received Counseling,2020,14.255555555555556,9,0
+NE,Received Counseling,2020,7.7555555555555555,9,0
+NJ,Received Counseling,2020,9.555555555555555,9,0
+NY,Received Counseling,2020,11.766666666666667,9,0
+WA,Received Counseling,2020,10.555555555555555,9,0
+AZ,Medication and/or Counseling,2020,22.066666666666666,9,0
+FL,Medication and/or Counseling,2020,21.555555555555557,9,0
+KS,Medication and/or Counseling,2020,25.866666666666664,9,0
+NM,Medication and/or Counseling,2020,24.499999999999996,9,0
+OH,Medication and/or Counseling,2020,25.08888888888889,9,0
+SC,Medication and/or Counseling,2020,24.477777777777774,9,0
+TX,Medication and/or Counseling,2020,21.48888888888889,9,0
+VA,Medication and/or Counseling,2020,23.799999999999997,9,0
+WV,Medication and/or Counseling,2020,29.144444444444446,9,0
+AL,Unmet Counseling Need,2020,10.577777777777776,9,0
+NC,Unmet Counseling Need,2020,11.488888888888887,9,0
+AZ,Took Medication,2021,20.355,20,0
+HI,Took Medication,2021,13.165000000000001,20,0
+IN,Took Medication,2021,25.78,20,0
+MS,Took Medication,2021,23.955,20,0
+MT,Took Medication,2021,22.165,20,0
+NM,Took Medication,2021,20.759999999999998,20,0
+OR,Took Medication,2021,23.869999999999997,20,0
+AZ,Received Counseling,2021,9.345,20,0
+IL,Received Counseling,2021,10.839999999999998,20,0
+MI,Received Counseling,2021,10.879999999999999,20,0
+MS,Received Counseling,2021,7.459999999999999,20,0
+NH,Received Counseling,2021,10.995000000000001,20,0
+NC,Received Counseling,2021,10.41,20,0
+ND,Received Counseling,2021,7.989473684210527,19,1
+SD,Received Counseling,2021,7.325,20,0
+UT,Received Counseling,2021,11.065000000000001,20,0
+VT,Received Counseling,2021,13.965,20,0
+WI,Received Counseling,2021,9.515,20,0
+DE,Medication and/or Counseling,2021,24.43,20,0
+ME,Medication and/or Counseling,2021,29.814999999999998,20,0
+NJ,Medication and/or Counseling,2021,21.765,20,0
+UT,Medication and/or Counseling,2021,30.050000000000004,20,0
+VT,Medication and/or Counseling,2021,30.345000000000006,20,0
+CO,Unmet Counseling Need,2021,13.15,20,0
+DE,Unmet Counseling Need,2021,8.865,20,0
+ID,Unmet Counseling Need,2021,11.559999999999999,20,0
+NE,Unmet Counseling Need,2021,9.990000000000002,20,0
+NY,Unmet Counseling Need,2021,9.74,20,0
+RI,Unmet Counseling Need,2021,9.665000000000001,20,0
+TX,Unmet Counseling Need,2021,12.105,20,0
+UT,Unmet Counseling Need,2021,13.434999999999999,20,0
+IL,Took Medication,2022,22.15,4,0
+LA,Took Medication,2022,25.275,4,0
+NC,Took Medication,2022,23.5,4,0
+WY,Took Medication,2022,20.1,4,0
+KS,Received Counseling,2022,10.75,4,0
+MO,Received Counseling,2022,8.875,4,0
+MT,Received Counseling,2022,12.15,4,0
+RI,Received Counseling,2022,14.025,4,0
+LA,Medication and/or Counseling,2022,28.525,4,0
+MT,Medication and/or Counseling,2022,26.525,4,0
+NC,Medication and/or Counseling,2022,26.9,4,0
+RI,Medication and/or Counseling,2022,29.625,4,0
+SD,Medication and/or Counseling,2022,26.6,4,0
+WI,Medication and/or Counseling,2022,28.5,4,0
+MD,Unmet Counseling Need,2022,11.1,4,0
+NH,Unmet Counseling Need,2022,9.475000000000001,4,0
+ND,Unmet Counseling Need,2022,8.85,4,0
+PA,Unmet Counseling Need,2022,9.600000000000001,4,0
+TN,Unmet Counseling Need,2022,12.025,4,0
+CA,Took Medication,2020,16.822222222222223,9,0
+CT,Took Medication,2020,20.5,9,0
+DC,Took Medication,2020,18.311111111111114,9,0
+ID,Took Medication,2020,22.87777777777778,9,0
+IA,Took Medication,2020,23.977777777777778,9,0
+NH,Took Medication,2020,23.62222222222222,9,0
+OH,Took Medication,2020,22.533333333333335,9,0
+PA,Took Medication,2020,22.41111111111111,9,0
+SC,Took Medication,2020,22.57777777777778,9,0
+FL,Received Counseling,2020,8.133333333333335,9,0
+OH,Received Counseling,2020,9.377777777777778,9,0
+AR,Medication and/or Counseling,2020,27.266666666666666,9,0
+GA,Medication and/or Counseling,2020,23.688888888888886,9,0
+HI,Medication and/or Counseling,2020,15.655555555555557,9,0
+IL,Medication and/or Counseling,2020,23.2,9,0
+IN,Medication and/or Counseling,2020,25.977777777777774,9,0
+NV,Medication and/or Counseling,2020,19.900000000000002,9,0
+TN,Medication and/or Counseling,2020,25.077777777777776,9,0
+AR,Unmet Counseling Need,2020,10.622222222222222,9,0
+HI,Unmet Counseling Need,2020,7.111111111111111,9,0
+IA,Unmet Counseling Need,2020,9.477777777777778,9,0
+MA,Unmet Counseling Need,2020,10.11111111111111,9,0
+MT,Unmet Counseling Need,2020,10.022222222222222,9,0
+OK,Unmet Counseling Need,2020,11.877777777777778,9,0
+WV,Unmet Counseling Need,2020,10.577777777777778,9,0
+WY,Unmet Counseling Need,2020,9.055555555555555,9,0
+TX,Took Medication,2021,18.9,20,0
+HI,Received Counseling,2021,9.084999999999999,20,0
+IN,Received Counseling,2021,9.285,20,0
+LA,Received Counseling,2021,9.325,20,0
+NV,Received Counseling,2021,8.510000000000002,20,0
+NM,Received Counseling,2021,10.57,20,0
+PA,Received Counseling,2021,11.120000000000001,20,0
+TX,Received Counseling,2021,8.059999999999999,20,0
+DC,Medication and/or Counseling,2021,28.425,20,0
+MI,Medication and/or Counseling,2021,26.46,20,0
+MN,Medication and/or Counseling,2021,27.720000000000006,20,0
+NH,Medication and/or Counseling,2021,27.355,20,0
+OK,Medication and/or Counseling,2021,28.585,20,0
+CT,Unmet Counseling Need,2021,9.035,20,0
+FL,Unmet Counseling Need,2021,10.209999999999999,20,0
+MO,Unmet Counseling Need,2021,12.445,20,0
+NJ,Unmet Counseling Need,2021,8.920000000000002,20,0
+NM,Unmet Counseling Need,2021,11.35,20,0
+WA,Unmet Counseling Need,2021,13.145,20,0
+CO,Took Medication,2022,21.549999999999997,4,0
+DE,Took Medication,2022,22.65,4,0
+KY,Took Medication,2022,30.075,4,0
+ME,Took Medication,2022,28.95,4,0
+MN,Took Medication,2022,26.924999999999997,4,0
+MO,Took Medication,2022,25.174999999999997,4,0
+NV,Took Medication,2022,17.9,4,0
+ND,Took Medication,2022,25.625,4,0
+OK,Took Medication,2022,27.999999999999996,4,0
+SD,Took Medication,2022,24.499999999999996,4,0
+WA,Took Medication,2022,23.125,4,0
+WV,Took Medication,2022,34.2,4,0
+CA,Received Counseling,2022,11.8,4,0
+CO,Received Counseling,2022,12.525,4,0
+DE,Received Counseling,2022,12.75,4,0
+GA,Received Counseling,2022,9.65,4,0
+IA,Received Counseling,2022,9.649999999999999,4,0
+ME,Received Counseling,2022,12.524999999999999,4,0
+OR,Received Counseling,2022,14.425,4,0
+VA,Received Counseling,2022,10.85,4,0
+AL,Medication and/or Counseling,2022,29.65,4,0
+ND,Medication and/or Counseling,2022,28.4,4,0
+OR,Medication and/or Counseling,2022,30.500000000000004,4,0
+GA,Unmet Counseling Need,2022,12.899999999999999,4,0
+IL,Unmet Counseling Need,2022,11.975,4,0
+KY,Unmet Counseling Need,2022,11.850000000000001,4,0
+NV,Unmet Counseling Need,2022,11.35,4,0
+TX,Took Medication,2020,18.644444444444442,9,0
+HI,Received Counseling,2020,7.933333333333334,9,0
+IN,Received Counseling,2020,7.900000000000001,9,0
+LA,Received Counseling,2020,8.633333333333333,9,0
+NV,Received Counseling,2020,8.0,9,0
+NM,Received Counseling,2020,10.955555555555556,9,0
+PA,Received Counseling,2020,9.566666666666666,9,0
+TX,Received Counseling,2020,8.41111111111111,9,0
+DC,Medication and/or Counseling,2020,26.644444444444442,9,0
+MI,Medication and/or Counseling,2020,25.38888888888889,9,0
+MN,Medication and/or Counseling,2020,25.799999999999997,9,0
+NH,Medication and/or Counseling,2020,27.144444444444446,9,0
+OK,Medication and/or Counseling,2020,26.38888888888889,9,0
+CT,Unmet Counseling Need,2020,9.611111111111109,9,0
+FL,Unmet Counseling Need,2020,9.944444444444445,9,0
+MO,Unmet Counseling Need,2020,11.288888888888888,9,0
+NJ,Unmet Counseling Need,2020,8.355555555555556,9,0
+NM,Unmet Counseling Need,2020,11.433333333333332,9,0
+WA,Unmet Counseling Need,2020,11.922222222222224,9,0
+CA,Took Medication,2021,16.8,20,0
+CT,Took Medication,2021,21.405,20,0
+DC,Took Medication,2021,20.115,20,0
+ID,Took Medication,2021,24.099999999999994,20,0
+IA,Took Medication,2021,25.485000000000007,20,0
+NH,Took Medication,2021,24.244999999999997,20,0
+OH,Took Medication,2021,24.009999999999998,20,0
+PA,Took Medication,2021,24.455,20,0
+SC,Took Medication,2021,23.805,20,0
+FL,Received Counseling,2021,8.309999999999999,20,0
+OH,Received Counseling,2021,9.72,20,0
+AR,Medication and/or Counseling,2021,28.995000000000005,20,0
+GA,Medication and/or Counseling,2021,24.209999999999997,20,0
+HI,Medication and/or Counseling,2021,17.25,20,0
+IL,Medication and/or Counseling,2021,25.084999999999994,20,0
+IN,Medication and/or Counseling,2021,28.340000000000003,20,0
+NV,Medication and/or Counseling,2021,20.635000000000005,20,0
+TN,Medication and/or Counseling,2021,27.244999999999997,20,0
+AR,Unmet Counseling Need,2021,11.145,20,0
+HI,Unmet Counseling Need,2021,7.4526315789473685,19,1
+IA,Unmet Counseling Need,2021,9.559999999999999,20,0
+MA,Unmet Counseling Need,2021,10.045000000000002,20,0
+MT,Unmet Counseling Need,2021,10.175,20,0
+OK,Unmet Counseling Need,2021,12.584999999999997,20,0
+WV,Unmet Counseling Need,2021,10.975000000000001,20,0
+WY,Unmet Counseling Need,2021,10.255555555555555,18,2
+AK,Took Medication,2022,18.725,4,0
+AR,Took Medication,2022,28.174999999999997,4,0
+FL,Took Medication,2022,21.15,4,0
+KS,Took Medication,2022,26.549999999999997,4,0
+NJ,Took Medication,2022,19.424999999999997,4,0
+TN,Took Medication,2022,25.075000000000003,4,0
+VT,Took Medication,2022,23.925,4,0
+AR,Received Counseling,2022,8.225,4,0
+CT,Received Counseling,2022,13.925,4,0
+ID,Received Counseling,2022,10.375,4,0
+SC,Received Counseling,2022,8.6,4,0
+TN,Received Counseling,2022,9.4,4,0
+AK,Medication and/or Counseling,2022,23.375,4,0
+CO,Medication and/or Counseling,2022,26.825,4,0
+ID,Medication and/or Counseling,2022,26.75,4,0
+MA,Medication and/or Counseling,2022,30.1,4,0
+MS,Medication and/or Counseling,2022,24.900000000000002,4,0
+MO,Medication and/or Counseling,2022,28.275,4,0
+NE,Medication and/or Counseling,2022,30.224999999999998,4,0
+NY,Medication and/or Counseling,2022,25.474999999999998,4,0
+WA,Medication and/or Counseling,2022,27.700000000000003,4,0
+WY,Medication and/or Counseling,2022,23.45,4,0
+AZ,Unmet Counseling Need,2022,11.825,4,0
+CA,Unmet Counseling Need,2022,12.249999999999998,4,0
+DC,Unmet Counseling Need,2022,15.25,4,0
+IN,Unmet Counseling Need,2022,10.825,4,0
+LA,Unmet Counseling Need,2022,10.95,4,0
+MI,Unmet Counseling Need,2022,10.575000000000001,4,0
+MN,Unmet Counseling Need,2022,10.475000000000001,4,0
+OR,Unmet Counseling Need,2022,15.575000000000001,4,0
+SC,Unmet Counseling Need,2022,10.85,4,0
+SD,Unmet Counseling Need,2022,10.049999999999999,4,0
+VT,Unmet Counseling Need,2022,10.475,4,0
+VA,Unmet Counseling Need,2022,9.975,4,0
+WI,Unmet Counseling Need,2022,10.775,4,0
